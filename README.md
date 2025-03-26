@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Roobim06
 - 👀 I’m interested in: psychology and music (expect of programming of course)
-- 🌱 I’m currently learning: next js, react, typescript, python
+- 🌱 I’m currently learning: next js, react, typescript, python, c# (mainly)
 - 💞️ I’m looking to collaborate on: data analitics
 - 📫 How to reach me: mail or text me on discord
 - 😄 Pronouns: she/her
